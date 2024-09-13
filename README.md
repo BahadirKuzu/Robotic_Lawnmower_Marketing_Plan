@@ -1,4 +1,4 @@
-# Ambrogio ZR Marketing Plan
+# Robotic Lawnmower Marketing Plan
 
 ## Project Overview
 This repository contains the marketing plan developed for the launch and promotion of Ambrogio ZR Group's innovative robotic lawnmowers. The plan focuses on enhancing the brand’s visibility and expanding its market share through targeted marketing strategies, strategic partnerships, and a strong digital presence.
